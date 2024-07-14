@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Md Mohiuddin Khan (Akash)</h1>
 <h3 align="center">A passionate mobile app developer(flutter) from Bangladesh.</h3>
 
-<img align="right" width="400" src="https://camo.githubusercontent.com/5b1d2e901546f5465aacfb5d19253ae0822909b754dac4b8b2d5632374125c72/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f312a7a566e574a7479474f585f6b5549446d3663634366512e676966" alt="Coding">
+<img align="right" width="400" src="https://camo.githubusercontent.com/d3fcfe478a3a21468da489294ce1346ffbf7ed00877f290a2b477b9f7a734296/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63642f35392f64362f63643539643632366463383633393766653435303830653665396337303237642e676966" alt="Coding">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohiuddin13631&label=Profile%20views&color=0e75b6&style=flat" alt="mohiuddin13631" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohiuddin13631" alt="mohiuddin13631" /></a> </p>
-
-- 🔭 I’m currently working at the Softking limited **NFC Payment System**
+- 🔭 I’m currently working at the Softking Limited **NFC Payment System**
 
 - 🌱 I’m currently learning **Node.js**
 
