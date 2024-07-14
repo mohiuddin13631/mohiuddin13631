@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohiuddin13631&label=Profile%20views&color=0e75b6&style=flat" alt="mohiuddin13631" /> </p>
 
-- 🔭 I’m currently working at the Softking Limited **NFC Payment System**
+- 🔭 I’m currently working at the Softking Limited
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **Node.js,  Jetpack Compose**
 
 - 👯 I’m looking to collaborate on **Open Source Project**
 
