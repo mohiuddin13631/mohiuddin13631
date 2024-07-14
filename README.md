@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Md Mohiuddin Khan (Akash)</h1>
 <h3 align="center">A passionate flutter developer from Bangladesh</h3>
-<h3 align="right" alt="coding" width="400" src="https://gmm2u.weebly.com/uploads/5/7/4/0/57403239/640_orig.gif"></h3>
+<img align="right" alt="coding" width="400" src="https://gmm2u.weebly.com/uploads/5/7/4/0/57403239/640_orig.gif"></h3>
 
 - 💬 Ask me about **Flutter,Dart,C,C++,Java,OOP**
 
